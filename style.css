@@ -1,0 +1,41 @@
+body {
+  background-image: url("new_zealand_bg.jpg");
+  background-color: black;
+  font-family: 'Baloo Bhai', cursive;
+  font-size: smaller;
+  color: white;
+  text-align: center;
+
+
+}
+
+.center {
+  text-align: center;
+}
+
+.black-box {
+  width: 325px;
+  height: 325px;
+  margin-top: 50px;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flag-image {
+  top-margin: 40px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+div.links ul {
+  margin-left: auto;
+  margin-right: auto;
+  list-style: none;
+  display: flex;
+}
+
+div.links ul li {
+  margin: 0 10px 0 10px;
+}
+
