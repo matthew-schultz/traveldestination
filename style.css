@@ -1,5 +1,8 @@
 body {
   background-image: url("new_zealand_bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   background-color: black;
   font-family: 'Baloo Bhai', cursive;
   font-size: smaller;
@@ -29,14 +32,18 @@ body {
   border-radius: 50%;
 }
 
-div.links ul {
+p {
+
+}
+
+ div.links ul {
   margin-left: auto;
   margin-right: auto;
   list-style: none;
   display: flex;
 }
 
-div.links ul li {
+ div.links ul li {
   margin: 0 5px 0 5px;
 }
 
@@ -47,12 +54,12 @@ h2 {
 form {
   margin: 10px;
 }
-
+/*
 input {
   margin: 10px;
 }
 
 button {
   margin: 10px;
-}
+} */
 
